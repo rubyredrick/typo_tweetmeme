@@ -1,0 +1,20 @@
+TypoTextfilterTweetmeme
+=======================
+
+A simple Typo text filter which adds  tag to generate the javascript necessary for a tweetmeme.com
+retweet badge for an article
+
+
+Example
+=======
+
+in the text of the article just insert the tag:
+
+  <typo:tweetmeme/>
+
+where you want the badge.
+
+Thats it!
+
+
+Copyright (c) 2009 Rick Denatale, released under the MIT license
